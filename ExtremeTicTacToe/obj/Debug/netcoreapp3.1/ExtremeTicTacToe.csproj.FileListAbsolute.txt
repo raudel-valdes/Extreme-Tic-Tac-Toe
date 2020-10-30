@@ -1,0 +1,12 @@
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/bin/Debug/netcoreapp3.1/ExtremeTicTacToe.deps.json
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/bin/Debug/netcoreapp3.1/ExtremeTicTacToe.runtimeconfig.json
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/bin/Debug/netcoreapp3.1/ExtremeTicTacToe.runtimeconfig.dev.json
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/bin/Debug/netcoreapp3.1/ExtremeTicTacToe.dll
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/bin/Debug/netcoreapp3.1/ExtremeTicTacToe.pdb
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.csprojAssemblyReference.cache
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.csproj.CoreCompileInputs.cache
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.AssemblyInfoInputs.cache
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.AssemblyInfo.cs
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.dll
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.pdb
+/Users/mac-pro/Documents/Development/Extreme-Tic-Tac-Toe/ExtremeTicTacToe/obj/Debug/netcoreapp3.1/ExtremeTicTacToe.genruntimeconfig.cache
